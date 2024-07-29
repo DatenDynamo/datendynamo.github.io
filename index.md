@@ -1,11 +1,14 @@
-## Portfolio
+## Selected projects in data analytics, machine learning and textmining
 
 ---
 
-### Category Name 1 
+### Hidden Markov Model for time series modelling of wage evolution
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This project is dedicated to the development of code for my bachelor's thesis titled "Statistical analyses for time series modeling of wage evolution using Hidden Markov Models." The code primarily revolves around the implementation and visualization of Hidden Markov Models to analyze and predict wage changes over time.
+
+<img src="https://github.com/DatenDynamo/Hidden-Markov-Model-wage-evolution/blob/main/2023_Zeitreihe_Entgelt_Beobachtung_mitProg.svg?raw=true"/>
+
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
