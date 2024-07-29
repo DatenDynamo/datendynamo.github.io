@@ -1,4 +1,4 @@
-## Nikitass portfolio project
+## Nikitas portfolio project
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 
