@@ -19,3 +19,10 @@ For a term paper in my political science studies at Georg-August-Universit√§t G√
 [View code on Github](https://github.com/DatenDynamo/LandtagswahlNiedersachsen2022)
 ---
 
+### Final Group Project for AI Module: Convolutional Neural Network on MNIST Dataset
+
+As part of the AI module in my Data Analytics master, our group took on the challenge of developing a Convolutional Neural Network (CNN) for handwriting recognition using the MNIST dataset. The goal was to design a model that not only makes accurate predictions but also outperforms the networks discussed in the lectures (success). We utilized TensorFlow for this project.
+
+<img src="images/thumbnail_cnn.jpg?raw=true"/>
+[View code on Github](https://github.com/DatenDynamo/CNN-handwriting)
+---
