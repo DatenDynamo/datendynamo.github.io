@@ -17,6 +17,7 @@ For a term paper in my political science studies at Georg-August-Universit√§t G√
 
 <img src="images/thumbnail_digitsation.jpg?raw=true"/>
 [View code on Github](https://github.com/DatenDynamo/LandtagswahlNiedersachsen2022)
+
 ---
 
 ### Final Group Project for AI Module: Convolutional Neural Network on MNIST Dataset
@@ -25,4 +26,5 @@ As part of the AI module in my Data Analytics master, our group took on the chal
 
 <img src="images/thumbnail_cnn.jpg?raw=true"/>
 [View code on Github](https://github.com/DatenDynamo/CNN-handwriting)
+
 ---
